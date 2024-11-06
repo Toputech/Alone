@@ -1,93 +1,122 @@
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> A͛L͛O͛N͛E͛-M͛D͛ </h1>
-
- 
-<h1 align="center"> Survival is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
-</h1>
+ <h1 align="center"> A͛L͛O͛N͛E͛ M͛D͛ </h1>
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="
-https://files.catbox.moe/4tu6s0.jpg" alt="01" border="0" /></a>                     
+      #life is such a bullshit without whatsapp bot... 
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
+<p align="center"> Introducing ALONE Md, A Simple WhatsApp user BOT, Created by topu Tech.
+</p>
 
-<details>
-<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
-  
-- 𝐀𝐥𝐥 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐞𝐫𝐫𝐨𝐫𝐬 𝐟𝐢𝐱𝐞𝐝
-- 𝐀𝐧𝐭𝐢𝐜𝐚𝐥𝐥 𝐚𝐝𝐝𝐞𝐝
--𝐀𝐧𝐭𝐢𝐝𝐞𝐥𝐞𝐭𝐞 𝐚𝐝𝐝𝐞𝐝
--𝐀𝐧𝐝 𝐦𝐚𝐧𝐲 𝐦𝐨𝐫𝐞 𝐣𝐮𝐬𝐭 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰
-
-</details>
-
-
-**👇FORK REPO**
-
-  
-
-<a href="https://github.com/keithkeizzah/ALPHA-MD1/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK ALPHA" width="150"></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
-
-
-
-###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
-
-
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/ALPHA-MD1&template=https://github.com/keithkeizzah/ALPHA-MD1.git)***
-
-<br>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-
-**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
-<details>
-<summary>CLICK FOR MORE</summary>
-<a href="https://github.com/keithkeizzah/KEITH-MD2/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
-  
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
-</details
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg" alt="01" border="0" /></a>                     
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
+ ## 🚀 `Bot Features`
+| Feature                          | Description                                             | Available    | Version    |
+| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
+| Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 2.0        |
+| AI Photo Enhancement             | Enhance photos using advanced AI algorithms            | ✅           | 2.0        |
+| Downloader Commands              | Download various types of content from the internet     | ✅           | 2.0        |
+| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 2.0        |
+| Logo Commands                    | Generate logos using specialized commands               | ✅           | 2.0        |
+| Anime Commands                   | Explore anime-related commands and features              | ✅           | 2.0        |
+| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2.0        |
+| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
+| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
-**𝗚𝗿𝗼𝘂𝗽**
-- <a href="https://chat.whatsapp.com/DvXonepPp1XBPOYIBziTl1" target="_blank">
-    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+#### SETUP
+
+1. Fork the repo
+    <br>
+<a href='https://github.com/Toputech/alone/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  
+
+2. Get Session ID (By pairing code)
+   > 
+     <a href='https://topu-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+3. Deploy on heroku
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/alone' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
    
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Supported Versions Node Versions to run this bot
 
-### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
-[![Stargazers repo roster for @Keithkeizzah/ALPHA-MD1](http://reporoster.com/stars/dark/Keithkeizzah/ALPHA-MD1)](https://github.com/Keithkeizzah/ALPHA-MD1/stargazers)
-     
-[![Forkers repo roster for @Keithkeizzah/ALPHA-MD1](http://reporoster.com/forks/dark/Keithkeizzah/ALPHA-MD1)](https://github.com/Keithkeizzah/ALPHA-MD1/network/members)
+Please Use Node Version Higher to Get The Best Performance.
 
-Enjoy the diverse features of 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃  to enhance your Whatsapp more enjoyable
+| Version | Supported          |
+| ------- | ------------------ |
+| 14.x   | :x: |
+| 16.x   | ❗                |
+| 18.x   | :white_check_mark: |
+| 20.x   | ✅                |
 
+## Support 
+## Join my channel for updates and get free cc
+<a href="https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+
+HOW TO REACH THE OWNER? 
+ 
+   
+   <a href="https://wa.me+255673750170">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
+
+    ## Ask any thing
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+## Makesure you follow my channel for latest updates for TOPU MD bot and free CC
+ [`WA CHANNEL`](https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r)
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
+   
+## Thankyou for choosing ALONE MD bot 
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## Contributions
+
+
+Contributions to *ALONE-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+# Security Notice
+TOPU Md is safe for your WhatsApp and heroku
+
+## Reporting a Vulnerability
+
+
+## powered by TOPU MD
+
+
+
+The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+Enjoy the diverse features of the *ALONE-MD*  to enhance your Whatsapp more enjoyable
+☣Powered by TOPU Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
