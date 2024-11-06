@@ -13,12 +13,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Alpha-Md",
+    "Alone-Md",
     "whatsapp",
     "whatsapp-bot",
-    "keithkeizzah"
+    "toputech"
    ],
-  "author": "keithkeizzah",
+  "author": "toputech",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
