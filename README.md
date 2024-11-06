@@ -5,7 +5,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-      #life is such a bullshit without whatsapp bot... 
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <h1 align="center"> life is such a bullshit without a whatsapp bot </h1>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
