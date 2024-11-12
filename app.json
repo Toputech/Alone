@@ -1,14 +1,14 @@
 {
-  "name": "ALPHA-MD",
-  "description": "This BOT was developed by keithkeizzah.",
+  "name": "ALONE-MD",
+  "description": "This BOT was developed by Topu-tech.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://telegra.ph/file/967c663a5978c545f78d6.jpg",
-  "repository": "https://github.com/Keithkeizzah/ALPHA-MD1",
+  "logo": "https://files.catbox.moe/4tu6s0.jpg",
+  "repository": "https://github.com/Toputech/Alone",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -20,7 +20,7 @@
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_READ_MESSAGES": {
       "description": "Turn this 'on' if you want the bot to automatically read incoming messages. Use 'off' to disable it.",
@@ -44,7 +44,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "ALPHA-MD",
+      "value": "ALONE-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -75,17 +75,17 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "keithkeizzah"
+      "value": "Toputech"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254796299159"
+      "value": "255673750170"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
       "required": false,
-      "value": "3"
+      "value": "4"
     },
     "STARTING_BOT_MESSAGE": {
       "description": "if you don't want startting-bot-message put no else put yes",
