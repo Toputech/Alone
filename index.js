@@ -41,7 +41,7 @@ const { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter')
 //import chalk from 'chalk'
 const { verifierEtatJid , recupererActionJid } = require("./bdd/antilien");
 const { atbverifierEtatJid , atbrecupererActionJid } = require("./bdd/antibot");
-let evt = require(__dirname + "/framework/zokou");
+let evt = require(__dirname + "/framework/topu");
 const {isUserBanned , addUserToBanList , removeUserFromBanList} = require("./bdd/banUser");
 const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd/banGroup");
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
@@ -1006,7 +1006,7 @@ ${metadata.desc}\n\n> POWERED BY TOPU TECH.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `one or somes member(s) left group;\n`;
+            let msg = `Your leaving isnt affecting us;\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -1288,7 +1288,7 @@ if (conf.AUTO_LIKE_STATUS === "yes") {
                   zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Hello, it's time to close the group; sayonara." });
 
                 }, {
-                    timezone: "Africa/Nairobi"
+                    timezone: "Africa/Dodoma"
                   });
               }
         
@@ -1305,7 +1305,7 @@ if (conf.AUTO_LIKE_STATUS === "yes") {
 
                  
                 },{
-                    timezone: "Africa/Nairobi"
+                    timezone: "Africa/Dodoma"
                   });
               }
         
